@@ -65,7 +65,7 @@ export default {
       <h3><a href="https://ctg.hoops.co">CTG HOOPS</a></h3>
       <p>Proyecto relacionado con la comunidad del baloncesto en Cartagena.</p>
       <p><code>comunidad</code> <code>baloncesto</code> <code>presencia digital</code></p>
-      <a href="https://ctg.hoops.co"><b>ctg.hoops.co ↗</b></a>
+      <a href="https://ctg.hoops.co"><b>ctghoops.co ↗</b></a>
     </td>
     <td width="50%" valign="top">
       <sub><code>[ P.02 ]</code></sub>
