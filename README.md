@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="KeynnerXe — Desarrollador de Software"/>
+  <img src="./header.svg" width="100%" alt="KeynnerXe — Desarrollador de Software"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <code>Transformando ideas en código y código en soluciones reales.</code>
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## `01` &nbsp;›&nbsp; whoami <sub>— sobre mí</sub>
 
@@ -33,7 +33,7 @@ export default {
 >
 > Disfruto aprender nuevas tecnologías, experimentar con ideas y entender cómo funcionan los sistemas desde dentro. Mi objetivo es seguir creciendo como desarrollador y construir productos que tengan un impacto más allá del código.
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## `02` &nbsp;›&nbsp; stack --list <sub>— tecnologías</sub>
 
@@ -54,7 +54,7 @@ export default {
 </table>
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## `03` &nbsp;›&nbsp; ls ./proyectos <sub>— lo que he construido</sub>
 
@@ -93,7 +93,7 @@ export default {
   </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## `04` &nbsp;›&nbsp; git log --stats <sub>— actividad</sub>
 
@@ -106,7 +106,7 @@ export default {
   <img width="90%" src="https://streak-stats.demolab.com?user=KeynnerXe&hide_border=true&background=070B14&ring=58A6FF&fire=FFB454&currStreakLabel=FFB454&sideLabels=8B9BB8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5D6F93&stroke=1B2A4A&locale=es" alt="Racha de contribuciones"/>
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## `05` &nbsp;›&nbsp; tail -f ahora.log <sub>— en qué estoy trabajando</sub>
 
@@ -120,7 +120,7 @@ $ tail -f ahora.log
 ▌
 ```
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## `06` &nbsp;›&nbsp; cat fuera_del_codigo.txt <sub>— más allá del código</sub>
 
@@ -139,7 +139,7 @@ $ tail -f ahora.log
 <br/>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="La curiosidad inicia el proceso. La ejecución marca la diferencia."/>
+  <img src="./footer.svg" width="100%" alt="La curiosidad inicia el proceso. La ejecución marca la diferencia."/>
   <br/><br/>
   <a href="https://keynnerxe.github.io/"><img src="https://img.shields.io/badge/→%20explora%20mi%20portafolio-ffb454?style=for-the-badge&logoColor=070b14&labelColor=ffb454&color=ffb454" alt="Explorar portafolio"/></a>
 </p>
