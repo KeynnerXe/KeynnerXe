@@ -1,141 +1,145 @@
-# `KeynnerXe` — Software Developer
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080b16,50:111d3a,100:164e8a&height=200&section=header&text=KEYNNERXE&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=15&descAlignY=65" width="100%" alt="KeynnerXe banner"/>
+  <img src="./assets/header.svg" width="100%" alt="KeynnerXe — Desarrollador de Software"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/KeynnerXe">
-    <img src="https://img.shields.io/badge/PROFILE-KeynnerXe-101827?style=for-the-badge&logo=github&logoColor=58a6ff"/>
-  </a>
-  <img src="https://img.shields.io/badge/ROLE-SOFTWARE%20DEVELOPER-101827?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff"/>
-  <img src="https://img.shields.io/badge/LOCATION-COLOMBIA-101827?style=for-the-badge&logo=googlemaps&logoColor=58a6ff"/>
+  <a href="https://github.com/KeynnerXe"><img src="https://img.shields.io/badge/github-KeynnerXe-070b14?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1526" alt="GitHub"/></a>
+  <a href="https://keynnerxe.github.io/"><img src="https://img.shields.io/badge/portafolio-abrir-070b14?style=for-the-badge&logo=googlechrome&logoColor=ffb454&labelColor=0d1526" alt="Portafolio"/></a>
+  <img src="https://img.shields.io/badge/estado-construyendo-070b14?style=for-the-badge&logo=rocket&logoColor=58a6ff&labelColor=0d1526" alt="Estado"/>
 </p>
 
 <p align="center">
-  <i>Building software. Solving problems. Learning without limits.</i>
+  <code>Transformando ideas en código y código en soluciones reales.</code>
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## `01` / ABOUT ME
+## `01` &nbsp;›&nbsp; whoami <sub>— sobre mí</sub>
 
 ```js
-class Developer {
-    constructor() {
-        this.name = "Keynner Ramos";
-        this.username = "KeynnerXe";
-        this.role = "Software Developer";
-        this.country = "Colombia";
-        this.focus = [
-            "Full Stack Development",
-            "Backend Engineering",
-            "Database Design",
-            "API Integration",
-            "Automation"
-        ];
-    }
-
-    getObjective() {
-        return "Turn complex problems into useful software.";
-    }
-}
-
-const me = new Developer();
+// keynner.config.js
+export default {
+  nombre:    "Keynner Ramos",
+  alias:     "KeynnerXe",
+  rol:       "Desarrollador de Software",
+  base:      "Colombia",
+  enfoque:   ["desarrollo web", "backend & APIs", "bases de datos",
+              "automatización", "ingeniería de software"],
+  filosofia: "aprender construyendo",
+};
 ```
 
-I'm a software development student and developer interested in building practical applications, understanding system architecture, and connecting technologies to solve real problems.
+> Soy estudiante de desarrollo de software y desarrollador de proyectos tecnológicos. Me interesa crear aplicaciones útiles, integrar servicios, diseñar bases de datos y encontrar soluciones eficientes a problemas reales.
+>
+> Disfruto aprender nuevas tecnologías, experimentar con ideas y entender cómo funcionan los sistemas desde dentro. Mi objetivo es seguir creciendo como desarrollador y construir productos que tengan un impacto más allá del código.
 
-I learn by building, experiment by breaking things, and improve by understanding what went wrong.
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
----
+## `02` &nbsp;›&nbsp; stack --list <sub>— tecnologías</sub>
 
-## `02` / TECHNOLOGY STACK
+<div align="center">
+<table>
+  <tr>
+    <td align="right"><code>lenguajes</code></td>
+    <td><img src="https://skillicons.dev/icons?i=java,js,ts,python,php&theme=dark" alt="Lenguajes"/></td>
+  </tr>
+  <tr>
+    <td align="right"><code>web</code></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind&theme=dark" alt="Web"/></td>
+  </tr>
+  <tr>
+    <td align="right"><code>datos &amp; tools</code></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,git,github,vscode,postman&theme=dark" alt="Datos y herramientas"/></td>
+  </tr>
+</table>
+</div>
 
-<p align="center">
-  <strong>LANGUAGES</strong>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php&theme=dark" alt="Programming languages"/>
-</p>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<p align="center">
-  <strong>DEVELOPMENT</strong>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,html,css&theme=dark" alt="Development technologies"/>
-</p>
-
-<p align="center">
-  <strong>DATA & TOOLS</strong>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,git,github,vscode,postman&theme=dark" alt="Databases and developer tools"/>
-</p>
-
----
-
-## `03` / SELECTED PROJECTS
+## `03` &nbsp;›&nbsp; ls ./proyectos <sub>— lo que he construido</sub>
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>Money Trees</h3>
-      <p>Digital wallet concept focused on accessible financial operations and reliable data management.</p>
-      <p><strong>Focus</strong></p>
-      <p>Database architecture · PostgreSQL · Web development · Data integrity</p>
+    <td width="50%" valign="top">
+      <sub><code>[ P.01 ]</code></sub>
+      <h3><a href="https://ctg.hoops.co">CTG HOOPS</a></h3>
+      <p>Proyecto relacionado con la comunidad del baloncesto en Cartagena.</p>
+      <p><code>comunidad</code> <code>baloncesto</code> <code>presencia digital</code></p>
+      <a href="https://ctg.hoops.co"><b>ctg.hoops.co ↗</b></a>
     </td>
-    <td width="50%">
-      <h3>Side Projects</h3>
-      <p>A collection of experiments, applications, and technical challenges built to turn ideas into working solutions.</p>
-      <p><strong>Focus</strong></p>
-      <p>APIs · Automation · Backend · Software engineering</p>
+    <td width="50%" valign="top">
+      <sub><code>[ P.02 ]</code></sub>
+      <h3><a href="https://gammatechlab.com">GammaTechLab</a></h3>
+      <p>Proyecto tecnológico enfocado en el entorno digital y el desarrollo de soluciones.</p>
+      <p><code>tecnología</code> <code>desarrollo</code> <code>innovación</code></p>
+      <a href="https://gammatechlab.com"><b>gammatechlab.com ↗</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><code>[ P.03 ]</code></sub>
+      <h3><a href="https://funmiador.org">Funmiador</a></h3>
+      <p>Proyecto con presencia web propia.</p>
+      <p><code>desarrollo</code> <code>soluciones digitales</code></p>
+      <a href="https://funmiador.org"><b>funmiador.org ↗</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <sub><code>[ P.04 ]</code></sub>
+      <h3><a href="https://keynnerxe.github.io/">Mi portafolio</a></h3>
+      <p>Un espacio para conocer mi perfil, mi trabajo y los proyectos que desarrollo.</p>
+      <p><code>trayectoria</code> <code>proyectos</code> <code>perfil profesional</code></p>
+      <a href="https://keynnerxe.github.io/"><b>keynnerxe.github.io ↗</b></a>
     </td>
   </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## `04` / GITHUB ANALYTICS
+## `04` &nbsp;›&nbsp; git log --stats <sub>— actividad</sub>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KeynnerXe&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeynnerXe&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used programming languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KeynnerXe&show_icons=true&hide_border=true&bg_color=070b14&title_color=58a6ff&icon_color=ffb454&text_color=8b9bb8&rank_icon=github&locale=es" alt="Estadísticas de GitHub"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeynnerXe&layout=compact&hide_border=true&bg_color=070b14&title_color=58a6ff&text_color=8b9bb8&locale=es" alt="Lenguajes más utilizados"/>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=KeynnerXe&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="Contribution streak"/>
+  <img width="90%" src="https://streak-stats.demolab.com?user=KeynnerXe&hide_border=true&background=070B14&ring=58A6FF&fire=FFB454&currStreakLabel=FFB454&sideLabels=8B9BB8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5D6F93&stroke=1B2A4A&locale=es" alt="Racha de contribuciones"/>
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## `05` / BEYOND THE TERMINAL
+## `05` &nbsp;›&nbsp; tail -f ahora.log <sub>— en qué estoy trabajando</sub>
 
-```text
-INTERESTS
-├── Software Engineering
-├── Technology & Innovation
-├── Basketball
-└── Volleyball
+```bash
+$ tail -f ahora.log
+[en curso]  mejorando mis habilidades de frontend y backend
+[en curso]  diseñando arquitecturas de software más sólidas
+[en curso]  profundizando en bases de datos y optimización de consultas
+[en curso]  creando integraciones con APIs y servicios externos
+[en curso]  desarrollando proyectos que resuelven necesidades reales
+▌
 ```
 
-Outside the terminal, I'm still chasing progress. Basketball and software development share something important: discipline, strategy, repetition, and learning from every mistake.
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
----
+## `06` &nbsp;›&nbsp; cat fuera_del_codigo.txt <sub>— más allá del código</sub>
 
-## `06` / CURRENT OBJECTIVES
+<table>
+  <tr>
+    <td>🏀 <b>Baloncesto</b></td>
+    <td>🏐 <b>Voleibol</b></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Ambos me han enseñado que mejorar requiere <b>disciplina</b>, <b>estrategia</b>, <b>constancia</b> y aprender de los errores. Esa misma mentalidad se aplica al desarrollo de software: cada problema es una oportunidad para mejorar la siguiente solución.
+    </td>
+  </tr>
+</table>
 
-- Building more complete software projects.
-- Improving backend architecture and database design.
-- Strengthening full-stack development skills.
-- Writing cleaner, more maintainable code.
-- Learning by shipping real solutions.
-
----
+<br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:164e8a,50:111d3a,100:080b16&height=3&section=footer" width="100%" alt="Blue divider"/>
+  <img src="./assets/footer.svg" width="100%" alt="La curiosidad inicia el proceso. La ejecución marca la diferencia."/>
   <br/><br/>
-  <strong>KEYNNERXE</strong>
-  <br/>
-  <sub>Curiosity is the beginning. Execution makes the difference.</sub>
-  <br/><br/>
-  <a href="https://github.com/KeynnerXe">GITHUB</a>
+  <a href="https://keynnerxe.github.io/"><img src="https://img.shields.io/badge/→%20explora%20mi%20portafolio-ffb454?style=for-the-badge&logoColor=070b14&labelColor=ffb454&color=ffb454" alt="Explorar portafolio"/></a>
 </p>
